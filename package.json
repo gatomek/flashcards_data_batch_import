@@ -1,0 +1,14 @@
+{
+  "name": "flashcards_german",
+  "version": "1.0.0",
+  "description": "Niemieckie fiszki",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "GaTomek",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "8.3.2"
+  }
+}
